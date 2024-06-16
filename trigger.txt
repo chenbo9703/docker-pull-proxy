@@ -1,4 +1,1 @@
-dtagdevsec/redis:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/redis:24.04
-dtagdevsec/wordpot:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/wordpot:24.04
-dtagdevsec/dicompot:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/dicompot:24.04
-dtagdevsec/fatt:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/fatt:24.04
+dtagdevsec/p0f:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/p0f:24.04
