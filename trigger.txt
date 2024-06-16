@@ -1,1 +1,2 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+dtagdevsec/medpot:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/medpot:24.04
