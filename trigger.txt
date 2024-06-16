@@ -1,1 +1,1 @@
-dtagdevsec/p0f:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/p0f:24.04
+dtagdevsec/sentrypeer:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/sentrypeer:24.04
