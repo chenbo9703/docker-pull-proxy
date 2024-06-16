@@ -25,3 +25,4 @@ dtagdevsec/elasticsearch:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/elas
 dtagdevsec/kibana:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/kibana:24.04
 dtagdevsec/logstash:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/logstash:24.04
 dtagdevsec/nginx:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/nginx:24.04
+dtagdevsec/snare:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/snare:24.04
