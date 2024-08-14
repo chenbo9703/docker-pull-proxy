@@ -1,2 +1,2 @@
-dtagdevsec/sentrypeer:24.04 registry.cn-hangzhou.aliyuncs.com/etaodevsec/sentrypeer:24.04
 node:20-alpine registry.cn-hangzhou.aliyuncs.com/zjutcs/node:20-alpine
+phusion/baseimage:latest registry.cn-hangzhou.aliyuncs.com/zjutcs/phusion/baseimage:latest
