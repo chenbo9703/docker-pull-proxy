@@ -1,1 +1,1 @@
-phusion/baseimage:latest registry.cn-hangzhou.aliyuncs.com/zjutcs/phusion/baseimage:latest
+phusion/baseimage registry.cn-hangzhou.aliyuncs.com/zjutcs/phusion/baseimage
