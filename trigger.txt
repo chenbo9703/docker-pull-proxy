@@ -1,1 +1,1 @@
-phusion/baseimage:bionic-1.0.0 registry.cn-hangzhou.aliyuncs.com/zjutcs/phusion/baseimage:bionic-1.0.0
+phusion/baseimage:bionic-1.0.0 registry.cn-hangzhou.aliyuncs.com/zjutcs/phusion_baseimage:bionic-1.0.0
